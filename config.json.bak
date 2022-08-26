@@ -1,0 +1,35 @@
+{
+    "ownerNumber": "6285814277864@s.whatsapp.net", 
+    "ownerName": "Wrtg Store", 
+    "botName": "WrtgBotz",
+    "footer": "© WrtgBotz", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/DxtKi1fyIgZHtglSkJMeHa",
+    "Instagram": "https://instagram.com/wrtgstore",
+     
+    "textBarisDonate1": "Dana : 0858-9463-3045",
+    "textBarisDonate2": "Ovo : 0851-5638-9121",
+    "textBarisDonate3": "Gopay : 0851-5638-9121",
+    "textBarisDonate4": "Pulsa : 0851-5638-9121",
+  
+    "ButtonTextMenu1": "Instagram",
+    "ButtonTextMenu2": "Owner",
+    "quickReplyButton3": "Rules",
+    "quickReplyButton4": "Donasi",
+    "quickReplyButton5": "Dashboard",
+  
+    "ButtonMenuLink1": "https://instagram.com/wrtgstore",
+    "ButtonMenuLink2": "https://wa.me/6285814277864",
+    "displayTextMenu3": "rules",
+    "displayTextMenu4": "donasi",
+    "displayTextMenu5": "dashboard",
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© Store",
+        "author": "Wrtg Store"
+    }
+}

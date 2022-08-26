@@ -1,0 +1,35 @@
+{
+    "ownerNumber": "6283836204321@s.whatsapp.net", 
+    "ownerName": "YASS SHOP", 
+    "botName": "YASS BOTZ",
+    "footer": "© YASS BOTZ", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/Jn3EFRN0awr3V0fOXJF9ix",
+    "Instagram": "https://instagram.com/iyasss_.4",
+     
+    "textBarisDonate1": "Dana : 0838-3620-4321",
+    "textBarisDonate2": "Ovo : TIDAK ADA",
+    "textBarisDonate3": "Gopay : 0838-3620-4321",
+    "textBarisDonate4": "Pulsa : 0887-84870-5957",
+  
+    "ButtonTextMenu1": "Instagram",
+    "ButtonTextMenu2": "Owner",
+    "quickReplyButton3": "Rules",
+    "quickReplyButton4": "Donasi",
+    "quickReplyButton5": "Dashboard",
+  
+    "ButtonMenuLink1": "https://instagram.com/iyasss_.4",
+    "ButtonMenuLink2": "https://wa.me/6283836204321",
+    "displayTextMenu3": "rules",
+    "displayTextMenu4": "donasi",
+    "displayTextMenu5": "dashboard",
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© Store",
+        "author": "YASS BOTZ"
+    }
+}
